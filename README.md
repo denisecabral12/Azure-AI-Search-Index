@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Olá! Meu nome é Maria e recentemente comecei a estudar análise e desenvolvimento de sistemas. Este documento é um guia prático que criei enquanto aprendia a usar o Azure AI Search Index para realizar uma pesquisa. Este guia é para quem, assim como eu, está começando no mundo da tecnologia e quer aprender a usar novas ferramentas.
+Olá! Meu nome é Denise e recentemente comecei a estudar análise e desenvolvimento de sistemas. Este documento é um guia prático que criei enquanto aprendia a usar o Azure AI Search Index para realizar uma pesquisa. Este guia é para quem, assim como eu, está começando no mundo da tecnologia e quer aprender a usar novas ferramentas.
 
 ## Primeiros Passos
 
